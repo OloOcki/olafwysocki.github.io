@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Olaf Wysocki"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/my_face.JPG"
   bio    : "Welcome to my geospatial world!"
   links:
     - label: "Website"
