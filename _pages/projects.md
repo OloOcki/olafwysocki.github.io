@@ -11,7 +11,7 @@ This project was created together with HERE company.
 
 
 
-![[**GitHub repo of the project**](https://github.com/OloOcki/oloocki.github.io)](/projects/images/saveTheCyclists.PNG)
+[![GitHub repo of the project](/projects/images/saveTheCyclists.PNG)](https://github.com/OloOcki/oloocki.github.io)
 
 
 ## Echoes of Breslau in Wroclaw
