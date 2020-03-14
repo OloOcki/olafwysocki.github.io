@@ -16,9 +16,11 @@
 title: OloveGIS 
 email: olafwysocki@o2.pl
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Olaf Wysocki website about his geospatial world. The website presents his CV,
+  blog, geospatial news, GIS (Geographical Information Systems), Photogrammetry, Remote Sensing, Computer Vision.
+  Applications in maps creation, like Autonomous driving technology from AUDI AG perspective,
+  and relation to Elon Musk point of view.
+  Olaf is also a member of Hyperloop TUM (idea of Elon Musk) team.
 twitter_username: username
 github_username: olafwysocki
 minimal_mistakes_skin: "contrast"
@@ -60,7 +62,7 @@ plugins:
 author:
   name   : "Olaf Wysocki"
   avatar : "/assets/images/my_face.JPG"
-  bio    : "I am Geodesy & Geoinformation Master Student. Passionate about geospatial world"
+  bio    : "I am Geodesy & Geoinformation Master Student - currently writing a Master Thesis. Passionate about geospatial world and Manchester United."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
