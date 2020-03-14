@@ -7,7 +7,7 @@ title: "Publications"
 
 ## Echoes of Breslau in Wroclaw
 
-Walking down the street, we often do not draw attention to what architectural elements we pass by. It is interesting, but when we start looking around, we will see a lot of objects next to which we have passed by indifferently.
+> Walking down the street, we often do not draw attention to what architectural elements we pass by. It is interesting, but when we start looking around, we will see a lot of objects next to which we have passed by indifferently.
 
 This is the case of the remains of the times when the city was called Breslau. Only objects from this period were taken into account during mapping. What's more, two classes of objects have been distinguished and classified: Footprints and Inscriptions in Breslau.
 
