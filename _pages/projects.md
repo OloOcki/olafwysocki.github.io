@@ -11,7 +11,7 @@ title: "Projects"
 
 [![GitHub](/icons/mapIconBlack.png)](https://xyz.here.com/viewer/?project_id=2bda1f87-2b85-4513-8499-f8847325e8f8) XYZ Studio Draft version
 
-[![GitHubrepo](/icons/mapIconBlack.png)](https://github.com/OloOcki/oloocki.github.io) GitHub repo
+[![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/OloOcki/oloocki.github.io) GitHub repo
 
 
 
