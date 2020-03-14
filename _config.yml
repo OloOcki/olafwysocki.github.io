@@ -27,8 +27,8 @@ github_username: olafwysocki
 minimal_mistakes_skin: "contrast"
 search: true
 
-header:
-    image: "/assets/images/logo.png"
+#header:
+#    image: "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
