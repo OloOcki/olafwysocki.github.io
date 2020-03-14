@@ -5,9 +5,10 @@ title: "Projects"
 
 ## Save the Cyclists!
 
-[![publication](/icons/documentIconRed.png)](https://developer.here.com/blog/helping-cyclists-stay-safe-here-studio?_lrsc=13d8722c-a051-46a5-ba3f-cc20e5148d03&cid=other-Elevate-FD-0-HERE-&utm_source=Elevate&utm_medium=social&utm_campaign=Online_CommsShare_2020)
+[![publication](/icons/documentIconRed.png)](https://developer.here.com/blog/helping-cyclists-stay-safe-here-studio?_lrsc=13d8722c-a051-46a5-ba3f-cc20e5148d03&cid=other-Elevate-FD-0-HERE-&utm_source=Elevate&utm_medium=social&utm_campaign=Online_CommsShare_2020) Hands-on tutorial on HERE Developer page  [![GitHub repo of the project](/icons/mapIconBlack.PNG)](https://github.com/OloOcki/oloocki.github.io)
 
-[![GitHub repo of the project](/projects/images/saveTheCyclists.PNG)](https://github.com/OloOcki/oloocki.github.io)
+
+
 
 
 ## Echoes of Breslau in Wroclaw
