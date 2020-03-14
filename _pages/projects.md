@@ -12,10 +12,7 @@ title: "Projects"
 
 [![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/OloOcki/oloocki.github.io) GitHub repo
 
-
-![ProjectPhoto](projects/images/saveTheCyclists.png)
-
-![enter image description here](https://cdn2.hubspot.net/hubfs/2174253/Screen%20Shot%202020-02-04%20at%201.55.18%20PM.png)
+![photo](https://cdn2.hubspot.net/hubfs/2174253/Screen%20Shot%202020-02-04%20at%201.55.18%20PM.png)
 
 ## Echoes of Breslau in Wroclaw
 
@@ -24,5 +21,5 @@ title: "Projects"
 [![GitHub](/icons/mapIconGreen.png)](http://pwr.maps.arcgis.com/apps/webappviewer/index.html?id=82438860f59a4f6694e3d2524f08848d) Web-map
 
 
-![ProjectPhoto](projects/images/echoesOFBreslauInWroclaw.jpg)
+![photoTwo](/projects/images/echoesOFBreslauInWroclaw.jpg)
 
