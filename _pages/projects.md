@@ -9,6 +9,8 @@ Besides being a very popular means of transportation across EU, cycling comes wi
 
 This project was created together with HERE company.
 
-https://github.com/OloOcki/oloocki.github.io
+[**Hands-on blog post on the HERE Developer page**](https://developer.here.com/blog/helping-cyclists-stay-safe-here-studio?_lrsc=13d8722c-a051-46a5-ba3f-cc20e5148d03&cid=other-Elevate-FD-0-HERE-&utm_source=Elevate&utm_medium=social&utm_campaign=Online_CommsShare_2020)
+
+[**GitHub repo of the project**](https://github.com/OloOcki/oloocki.github.io)
 
 ![enter image description here](/projects/images/saveTheCyclists.PNG)
