@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: OloveGIS 
 email: olafwysocki@o2.pl
-logo: "/assets/images/bio-photo.jpg"
+logo: "/assets/images/earthLogo.png"
 description: >- # this means to ignore newlines until "baseurl:"
   Olaf Wysocki website about his geospatial world. The website presents his CV,
   blog, geospatial news, GIS (Geographical Information Systems), Photogrammetry, Remote Sensing, Computer Vision, Machine Learning, AI.
@@ -26,6 +26,9 @@ twitter_username: username
 github_username: olafwysocki
 minimal_mistakes_skin: "contrast"
 search: true
+
+header:
+    image: "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
@@ -65,6 +68,9 @@ author:
   avatar : "/assets/images/my_face.JPG"
   bio    : "I am Geodesy & Geoinformation Master Student - currently writing a Master Thesis. Passionate about geospatial world and Manchester United."
   links:
+     - label: "Email"
+       icon: "fas fa-fw fa-envelope-square"
+       url: mailto:olafwysocki@o2.pl
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://"
@@ -80,6 +86,9 @@ author:
 #    - label: "LinkedIn"
 #      icon: "fab fa-fw fa-linkedin"
 #      url: "https://github.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/OLove-GIS-2219269634973478/?modal=admin_todo_tour"
 
 #footer:
 #  links:
