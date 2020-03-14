@@ -69,9 +69,9 @@ author:
   avatar : "/assets/images/my_face.JPG"
   bio    : "I am Geodesy & Geoinformation Master Student - currently writing a Master Thesis. Passionate about geospatial world and Manchester United."
   links:
-     - label: "Email"
-       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:olafwysocki@o2.pl
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: mailto:olafwysocki@o2.pl
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://"
