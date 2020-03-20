@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Olaf Wysocki"
   avatar : "/assets/images/my_face.JPG"
-  bio    : "I am Geodesy & Geoinformation Master Student - currently writing a Master Thesis. Passionate about geospatial world and Manchester United."
+  bio    : "I am Geodesy & Geoinformation Master Student - currently writing a Master Thesis @ Audi AG & TUM. Passionate about geospatial world and Manchester United."
   linkedin: olaf-wysocki-24b557148
   links:
 #     - label: "Email"
@@ -85,9 +85,6 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
-#    - label: "LinkedIn"
-#      icon: "fab fa-fw fa-linkedin"
-#      url: "https://github.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/OLove-GIS-2219269634973478/?modal=admin_todo_tour"
