@@ -68,6 +68,7 @@ author:
   name   : "Olaf Wysocki"
   avatar : "/assets/images/my_face.JPG"
   bio    : "I am Geodesy & Geoinformation Master Student - currently writing a Master Thesis. Passionate about geospatial world and Manchester United."
+  linkedin: laura-leal-taixé-b0361b108
   links:
 #     - label: "Email"
 #       icon: "fas fa-fw fa-envelope-square"
@@ -91,6 +92,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/OLove-GIS-2219269634973478/?modal=admin_todo_tour"
 
+      
 #footer:
 #  links:
 #    - label: "Twitter"
@@ -102,6 +104,7 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
+#https://de.linkedin.com/in/olaf-wysocki-24b557148
 
 defaults:
   # _posts
