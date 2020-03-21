@@ -27,7 +27,7 @@ title: "Publications"
 
 ---
 
-* JUNE 2017, The Lower Silesian Voivodeship, **Distincted layer "Treasures of World War II within Lower Silesia" on geoportal of Lower Silesia** [See](https://geoportal.dolnyslask.pl/imap/#gpmap=gp56)
+* **Distincted layer "Treasures of World War II within Lower Silesia" on geoportal of Lower Silesia**, JUNE 2017, The Lower Silesian Voivodeship  [See](https://geoportal.dolnyslask.pl/imap/#gpmap=gp56)
 
 
 
