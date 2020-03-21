@@ -8,8 +8,8 @@ title: "CV"
 | Mar 2020 - present      | **Master’s Thesis Candidate** <br> [AUDI AG](https://www.audi.com/en/company.html), [SAVe](https://save-in.digital/) <br> *Ingolstadt, Germany* |          ![AUDI AG](/icons/audi_pic.png) <br> ![SAVe](/icons/save.png)<br> |
 | Aug 2019 - Sep 2019      |**Intern** <br> [AUDI AG](https://www.audi.com/en/company.html), [SAVe](https://save-in.digital/) <br> *Ingolstadt, Germany*        |  ![AUDI AG](/icons/audi_pic.png) <br> ![SAVe](/icons/save.png)<br> |
 | Dec 2018 - Mar 2020 | **Student Research Assistant** <br> [Technical University of Munich](https://www.tum.de/en/)<br> *Munich, Germany*       |    ![TUM](/icons/tum_logo.png) |
-| Sep 2017 - Jul 2018 | **GIS Specialist** <br> [SHH Sp. z o.o](http://www.shh.pl/shh-english,1.dhtml)<br> *Wroclaw, Poland*       |    ![SHH](/icons/tum_logo.png) |
-| Jul 2017 - Aug 2017 | **Intern** <br> [SHH Sp. z o.o](http://www.shh.pl/shh-english,1.dhtml)<br> *Wroclaw, Poland*       |    ![SHH](/icons/tum_logo.png) |
+| Sep 2017 - Jul 2018 | **GIS Specialist** <br> [SHH Sp. z o.o](http://www.shh.pl/shh-english,1.dhtml)<br> *Wroclaw, Poland*       |    ![SHH](/icons/shh.png) |
+| Jul 2017 - Aug 2017 | **Intern** <br> [SHH Sp. z o.o](http://www.shh.pl/shh-english,1.dhtml)<br> *Wroclaw, Poland*       |    ![SHH](/icons/shh.png) |
 
 
 
