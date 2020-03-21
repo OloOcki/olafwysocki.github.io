@@ -7,9 +7,9 @@ title: "Projects"
 
 [![publication](/icons/documentIconRed.png)](https://developer.here.com/blog/helping-cyclists-stay-safe-here-studio?_lrsc=13d8722c-a051-46a5-ba3f-cc20e5148d03&cid=other-Elevate-FD-0-HERE-&utm_source=Elevate&utm_medium=social&utm_campaign=Online_CommsShare_2020) Hands-on tutorial on HERE Developer page
 
-[![GitHub](/icons/mapIconGreen.png)](https://oloocki.github.io/) Web-map
+[![Globe](/icons/mapIconGreen.png)](https://oloocki.github.io/) Web-map
 
-[![GitHub](/icons/mapIconGreen.png)](https://xyz.here.com/viewer/?project_id=2bda1f87-2b85-4513-8499-f8847325e8f8) XYZ Studio Draft version
+[![Globe](/icons/mapIconGreen.png)](https://xyz.here.com/viewer/?project_id=2bda1f87-2b85-4513-8499-f8847325e8f8) XYZ Studio Draft version
 
 [![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/OloOcki/oloocki.github.io) GitHub repo
 
@@ -28,3 +28,11 @@ title: "Projects"
 
 ![photoTwo](/projects/images/echoesOFBreslauInWroclaw.jpg)
 
+
+## What can you see from the observation tower in the Sudetes and why can you see more?
+
+[![publication](/icons/documentIconRed.png)](https://www.arcanagis.pl/co-widac-z-wiezy-widokowej-w-sudetach-i-dlaczego-mozna-zobaczyc-wiecej/) ArcanaGIS article about the project
+
+[![Globe](/icons/mapIconGreen.png)](https://bit.ly/2rWdukh) 3D Web-map
+
+[![Globe](/icons/mapIconGreen.png)](https://bit.ly/2rX4Z8A) 2D Web-map
