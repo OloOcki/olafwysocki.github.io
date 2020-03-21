@@ -15,7 +15,7 @@ title: "CV"
 
 **Education**
 
-| When?        | What?           | At?  |
+|         | What?           | At?  |
 | :-------------: |:-------------:| :-----:|
 | Oct 2018 - present | **M. Sc Geodesy & Geoinformation** <br> [Technical University of Munich](https://www.tum.de/en/)<br> *Munich, Germany*       |    TUM photo |
 | Oct 2015 - Feb 2018 | **B.Eng. Geodesy and Cartography** <br> [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/)<br> *Wroclaw, Poland*       |    pwr photo |
