@@ -34,3 +34,7 @@ title: "Projects"
 [![Globe](/icons/mapIconGreen.png)](https://bit.ly/2rWdukh) 3D Web-map
 
 [![Globe](/icons/mapIconGreen.png)](https://bit.ly/2rX4Z8A) 2D Web-map
+
+
+
+![photo](https://www.arcanagis.pl/wp-content/uploads/2018/06/Rys.-6.-Wizualizacja-widoczno%C5%9Bci-z-wie%C5%BCy-widokowej-Suszynka-czerwony-blok-%C5%BAr%C3%B3d%C5%82o-w%C5%82asne.jpg)
