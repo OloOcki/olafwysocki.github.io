@@ -4,7 +4,7 @@ title: "CV"
 ---
 <p align="center">
 
-|        |**Professional experience**           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|  |
+|        |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Professional experience** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|  |
 | :-------------: |:-------------:| :-----:|
 | Mar 2020 - present      | **Master’s Thesis Candidate** <br> [AUDI AG](https://www.audi.com/en/company.html), [SAVe](https://save-in.digital/) <br> *Ingolstadt, Germany* |          ![AUDI AG](/icons/audi_pic.png) <br> ![SAVe](/icons/save.png)<br> |
 | Aug 2019 - Sep 2019      |**Intern** <br> [AUDI AG](https://www.audi.com/en/company.html), [SAVe](https://save-in.digital/) <br> *Ingolstadt, Germany*        |  ![AUDI AG](/icons/audi_pic.png) <br> ![SAVe](/icons/save.png)<br> |
