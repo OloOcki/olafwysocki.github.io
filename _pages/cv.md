@@ -20,4 +20,4 @@ title: "CV"
 | Oct 2016 - Jan 2017 | **B.Eng. School of Mineral Resources Engineering** <br> [Technical University of Crete](https://www.tum.de/en/)<br> *Chania, Greece*       |    ![TUC](/icons/crete.png) |
 
 
-Please, feel free to download my [full CV] (/cv/CV.pdf)
+Please, feel free to download my [full CV](/cv/CV.pdf)
