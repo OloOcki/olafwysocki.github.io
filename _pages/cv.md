@@ -2,7 +2,8 @@
 permalink: /cv/
 title: "CV"
 ---
-
+<p align="center">
+<
 |        |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Professional experience** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|  |
 | :-------------: |:-------------:| :-----:|
 | Mar 2020 - present      | **Master’s Thesis Candidate** <br> [AUDI AG](https://www.audi.com/en/company.html), [SAVe](https://save-in.digital/) <br> *Ingolstadt, Germany* |          ![AUDI AG](/icons/audi_pic.png) <br> ![SAVe](/icons/save.png)<br> |
@@ -18,5 +19,5 @@ title: "CV"
 | Oct 2018 - present | **M. Sc Geodesy & Geoinformation** <br> [Technical University of Munich](https://www.tum.de/en/)<br> *Munich, Germany*       |    ![TUM](/icons/tum_logo.png) |
 | Oct 2015 - Feb 2018 | **B.Eng. Geodesy and Cartography** <br> [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/)<br> *Wroclaw, Poland*       |    ![PWR](/icons/pwr.png) |
 | Oct 2016 - Jan 2017 | **B.Eng. School of Mineral Resources Engineering** <br> [Technical University of Crete](https://www.tum.de/en/)<br> *Chania, Greece*       |    ![TUC](/icons/crete.png) |
-
-
+>
+</p>
