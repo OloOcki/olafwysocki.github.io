@@ -15,6 +15,8 @@ title: "CV"
 
 
 
+<br><br>
+
 |         | **Education**           |   |
 | :-------------: |:-------------:| :-----:|
 | Oct 2018 - present | **M. Sc Geodesy & Geoinformation** <br> [Technical University of Munich](https://www.tum.de/en/)<br> *Munich, Germany*       |    ![TUM](/icons/tum_logo.png) |
