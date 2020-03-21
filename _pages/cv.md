@@ -25,6 +25,6 @@ title: "CV"
 
 
 
-
+<br><br>
 
 Please, feel free to download my [full CV](/cv/CV.pdf)
