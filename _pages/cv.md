@@ -2,7 +2,6 @@
 permalink: /cv/
 title: "CV"
 ---
-<p align="center">
 
 |        |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Professional experience** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|  |
 | :-------------: |:-------------:| :-----:|
@@ -21,4 +20,3 @@ title: "CV"
 | Oct 2016 - Jan 2017 | **B.Eng. School of Mineral Resources Engineering** <br> [Technical University of Crete](https://www.tum.de/en/)<br> *Chania, Greece*       |    ![TUC](/icons/crete.png) |
 
 
-</p>
