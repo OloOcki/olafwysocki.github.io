@@ -13,11 +13,9 @@ title: "Projects"
 
 [![GitHubrepo](/icons/gitHubIcon.png)](https://github.com/OloOcki/oloocki.github.io) GitHub repo
 
-<p align="center">
-<
+
 ![photo](https://cdn2.hubspot.net/hubfs/2174253/Screen%20Shot%202020-02-04%20at%201.55.18%20PM.png)
->
-</p>
+
 
 ## Echoes of Breslau in Wroclaw
 
