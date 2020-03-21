@@ -38,3 +38,4 @@ title: "Projects"
 
 
 ![photo](https://www.arcanagis.pl/wp-content/uploads/2018/06/Rys.-6.-Wizualizacja-widoczno%C5%9Bci-z-wie%C5%BCy-widokowej-Suszynka-czerwony-blok-%C5%BAr%C3%B3d%C5%82o-w%C5%82asne.jpg)
+*3D visualisation of new localisation of observation tower (red) with possible visible landmarks (blue)*
