@@ -10,3 +10,17 @@ Article about [**Echoes of Breslau in Wroclaw**](https://www.arcanagis.pl/echa-b
 
 > Walking down the street, we often do not draw attention to what architectural elements we pass by. It is interesting, but when we start looking around, we will see a lot of objects next to which we have passed by indifferently.
 > This is the case of the remains of the times when the city was called Breslau. 
+
+
+
+
+* FEBRUARY 2020, HERE, *Hands-on article “Helping Cyclists Stay Safe Using HERE Studio”*
+* DECEMBER 2019, RUNDER TISCH GIS E.V., *Trend analysis INTERGEO 2019*
+* NOVEMBER 2019, HINTE MESSE-UND AUSSTELLUNGS-GMBH,*Trend analysis INTERGEO 2019 (Post-Show Report)*
+* NOVEMBER 2018, ESRI, *ESRI Living Atlas Web Application*
+* OCTOBER 2018, ARCANAGIS, *Article “Echa Breslau we Wrocławiu”*
+* JUNE 2018, ARCANAGIS, *Article “Co widać z wieży widokowej w Sudetach i dlaczego można zobaczyć więcej?”*
+
+
+
+
