@@ -19,3 +19,5 @@ title: "CV"
 | Oct 2015 - Feb 2018 | **B.Eng. Geodesy and Cartography** <br> [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/)<br> *Wroclaw, Poland*       |    ![PWR](/icons/pwr.png) |
 | Oct 2016 - Jan 2017 | **B.Eng. School of Mineral Resources Engineering** <br> [Technical University of Crete](https://www.tum.de/en/)<br> *Chania, Greece*       |    ![TUC](/icons/crete.png) |
 
+
+Please, feel free to download my [full CV] (/cv/CV.pdf)
