@@ -24,8 +24,10 @@ title: "Projects"
 [![GitHub](/icons/mapIconGreen.png)](http://pwr.maps.arcgis.com/apps/webappviewer/index.html?id=82438860f59a4f6694e3d2524f08848d) Web-map
 
 
-![photoTwo](/projects/images/echoesOFBreslauInWroclaw.jpg)    ![photoThree](https://www.arcanagis.pl/wp-content/uploads/2018/10/Rys.-2..jpg)
-*Bullets holes mapped to the database*
+![photoTwo](https://www.arcanagis.pl/wp-content/uploads/2018/10/Rys.-5..jpg)
+*Exploration of the map in ArcGIS Online*
+![photoThree](https://www.arcanagis.pl/wp-content/uploads/2018/10/Rys.-2..jpg)
+*Inscriptions from Breslau times in the Wroclaw city*
 
 ## What can you see from the observation tower in the Sudetes and why can you see more?
 
