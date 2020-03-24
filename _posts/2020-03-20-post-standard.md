@@ -1,5 +1,5 @@
 ---
-title: "Australian approach for Digital Twin issue"
+title: "Australian approach to Digital Twin issue"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
