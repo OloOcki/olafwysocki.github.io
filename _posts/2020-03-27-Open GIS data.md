@@ -35,4 +35,7 @@ There you go:
 ## **Other websites with free data links** 
 - [Free GIS Datasets](https://freegisdata.rtwilson.com/)
 - [Open Data Inception](https://opendatainception.io/)
+- [Pangea](https://www.pangaea.de/)
+- [Geo-Wiki (includes Pangea)](https://www.geo-wiki.org/pages/data)
+- [Awesome Open Data](https://github.com/awesomedata/awesome-public-datasets#gis)
 
