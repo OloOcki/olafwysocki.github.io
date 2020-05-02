@@ -25,7 +25,7 @@ title: "Projects"
 
 
 ![photoTwo](https://www.arcanagis.pl/wp-content/uploads/2018/10/Rys.-5..jpg)
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; *Exploration of the map in ArcGIS Online*
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; *Exploration of the map in ArcGIS Online*
 
 ![photoThree](https://www.arcanagis.pl/wp-content/uploads/2018/10/Rys.-2..jpg)
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; *Inscriptions from Breslau times in the Wroclaw city*
